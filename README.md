@@ -9,8 +9,8 @@
 
 ## // Files menu:
   1. EquivalenceXXXgate: To demonstrate the equivalence of logic gate XXX based on the NAND and NOR ports. Composed of a Logisim file with an image of it.
-    1.1 EquivalenceNOTgate;
-    1.2 EquivalenceANDgate;
-    1.3 EquivalenceORgate;
-    1.4 EquivalenceXORgate;
-    1.5 EquivalenceXNORgate;
+    * EquivalenceNOTgate;
+    * EquivalenceANDgate;
+    * EquivalenceORgate;
+    * EquivalenceXORgate;
+    * EquivalenceXNORgate;
