@@ -14,5 +14,6 @@
 * Equivalence*OR*gate;
 * Equivalence*XOR*gate;
 * Equivalence*XNOR*gate;
+  
   2. **HalfAdder**: Logic circuit of a half adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
   3. **FullAdder**: Logic circuit of a full adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
