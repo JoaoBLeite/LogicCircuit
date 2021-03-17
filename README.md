@@ -8,7 +8,7 @@
   - MayTheForceBeWithYou( );
 
 ## // Files menu:
-  01) Equivalence**XXX**gate: To demonstrate the equivalence of logic gate XXX based on the NAND and NOR ports. Composed of a Logisim file and an image of it.
+  A) Equivalence**XXX**gate: To demonstrate the equivalence of logic gate XXX based on the NAND and NOR ports. Composed of a Logisim file and an image of it.
 
 * Equivalence*NOT*gate;
 * Equivalence*AND*gate;
@@ -16,5 +16,5 @@
 * Equivalence*XOR*gate;
 * Equivalence*XNOR*gate;
   
-  02) **HalfAdder**: Logic circuit of a half adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
-  03) **FullAdder**: Logic circuit of a full adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
+  B) **HalfAdder**: Logic circuit of a half adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
+  C) **FullAdder**: Logic circuit of a full adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
