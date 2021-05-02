@@ -15,3 +15,4 @@
   3. **FullAdder**: Logic circuit of a full adder, to calculate the sum of 2 bits. Composed of a Logisim file and an image of it.
   4. **HalfSubtractor**: Logic circuit of a half adder, to calculate the sub of 2 bits. Composed of a Logisim file and an image of it.
   5. **FullSubtractor**: Logic circuit of a half adder, to calculate the sub of 2 bits. Composed of a Logisim file and an image of it.
+  6. **LatchSR**: Logic circuit of a Letch Set-Reset. Composed of a Logisim file and an image of it.
