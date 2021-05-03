@@ -17,4 +17,6 @@
   5. **FullSubtractor**: Logic circuit of a half adder, to calculate the sub of 2 bits. Composed of a Logisim file and an image of it.
   6. **LatchSR**: Logic circuit of a Letch Set-Reset. Composed of a Logisim file and an image of it.
   7. **LatchD**: Logic circuit of a Letch D. Composed of a Logisim file and an image of it.
+  8. **4-bit Crescent Counter**: Logic circuit of a 4-Bit counter. Composed of a Logisim file and an image of it.
+  9. **4-bit Countdown**: Logic circuit of a 4-Bit countdown. Composed of a Logisim file and an image of it.
 
